@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-<img alt="Projeto Habits" src="https://github.com/regianegaspar/projeto-login/blob/main/imagens/preview.jpg?raw=true" width="100%">
+<img alt="Projeto Login" src="https://github.com/regianegaspar/projeto-login/blob/main/imagens/preview.jpg?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
